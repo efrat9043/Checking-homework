@@ -1,0 +1,19 @@
+# עיצוב והגדרות של ממשק Streamlit
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#F6F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E2235"
+font = "sans serif"
+
+[server]
+port = 8501
+headless = true        # לא שואל שאלות בטרמינל; הדפדפן נפתח מקובץ ההפעלה
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

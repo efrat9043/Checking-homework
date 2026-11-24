@@ -1,0 +1,35 @@
+{
+  "baseline-no-rubric": {
+    "experiment": "baseline-no-rubric-eb2bf5ca",
+    "abs_error": 6.8,
+    "abs_error_by_level": {
+      "good": 1.2,
+      "partial": 8.9,
+      "wrong": 10.5
+    },
+    "valid_output_pct": 100.0,
+    "hits_real_issue_pct": 90.0
+  },
+  "with-rubric": {
+    "experiment": "with-rubric-1d28f43d",
+    "abs_error": 8.1,
+    "abs_error_by_level": {
+      "good": 2.2,
+      "partial": 10.2,
+      "wrong": 12.3
+    },
+    "valid_output_pct": 100.0,
+    "hits_real_issue_pct": 80.0
+  },
+  "baseline-no-rubric-v2": {
+    "experiment": "baseline-no-rubric-v2-fc4412dc",
+    "abs_error": 6.9,
+    "abs_error_by_level": {
+      "good": 1.0,
+      "partial": 8.6,
+      "wrong": 11.5
+    },
+    "valid_output_pct": 100.0,
+    "hits_real_issue_pct": 94.4
+  }
+}

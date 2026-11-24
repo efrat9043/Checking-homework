@@ -1,0 +1,15 @@
+# סודות - לעולם לא להעלות
+.env
+
+# סביבה וקבצים שנוצרים אוטומטית
+.venv/
+__pycache__/
+*.pyc
+
+# דפי משוב שנוצרו בהרצות
+output/
+
+# קבצי ניסיון במתמטיקה (לא חלק מההגשה)
+exercise_math.txt
+sample_data_math/
+sample_data_math.zip
